@@ -1,7 +1,6 @@
-## Hey there, I'm @shubhamsonavane7980 AKA Im_Spector Nice to see you.
+# Hey there.
+## I'm @shubhamsonavane7980 AKA Im_Spector Nice to see you.
 ## Python Developer from India. ❤️ 👋
-
-# Hey there, I'm Shubham 👋
 
 ### 🚀 Python Developer | 2 Years of Coding Experience | Open to Collaboration
 
