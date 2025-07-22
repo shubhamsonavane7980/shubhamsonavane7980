@@ -66,7 +66,7 @@ Welcome to my GitHub! I'm a passionate developer with hands-on experience in Pyt
 ### 📈 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamsonavane7980&show_icons=true&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shubhamsonavane7980&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamsonavane7980&theme=radical)
 
 ---
 
