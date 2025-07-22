@@ -2,7 +2,7 @@
 ## I'm @shubhamsonavane7980 AKA Im_Spector Nice to see you.
 ## Python Developer from India. ❤️ 👋
 
-### 🚀 Python Developer | 2 Years of Coding Experience | Open to Collaboration
+### 🚀 Python Developer | Years of Coding Experience | Open to Collaboration
 
 Welcome to my GitHub! I'm a passionate developer with hands-on experience in Python, automation, and full-stack projects. I enjoy building tools that solve real-world problems — from Android apps to web-based platforms.
 
@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm a passionate developer with hands-on experience in Pyt
 ### 💼 About Me
 
 - 🧑‍💻 Currently working as a **Python Developer**
-- 💡 2 years of coding experience with various technologies
+- 💡 Years of coding experience with various technologies
 - 📱 Built Android apps using Java & Firebase
 - 🌐 Created dynamic websites using **HTML**, **CSS**, **JavaScript**, and **PHP**
 - 🤖 Skilled in **Python**, **Machine Learning**, and **AI Automation**
