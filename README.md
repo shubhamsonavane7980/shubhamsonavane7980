@@ -2,7 +2,7 @@
 ## I'm @shubhamsonavane7980 AKA Im_Spector
 ### ❤️ Full Stack Developer from India
 
-### 🚀 Python | Java | .NET Full Stack Developer | Open to Collaboration
+### 🚀 Python Full Stack Developer| Java Full Stack Developer| .NET Full Stack Developer | Open to Collaboration
 
 Welcome to my GitHub! I'm a passionate developer with hands-on experience building real-world applications across **Python, Java, and .NET ecosystems**. I enjoy creating scalable backend systems, automation tools, and modern web platforms that solve practical problems.
 
